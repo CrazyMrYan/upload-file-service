@@ -1,6 +1,9 @@
 # upload-file-service
 nodejs 实现文件上传功能
 
+> 注意此项目不在更新（作为基础项目存档），新开了一个组织，有兴趣的小伙伴可以参考 [diskcloud/service](https://github.com/diskcloud/service)，欢迎提ISSUES、PR等，一起建设此项目，
+>
+
 ### 支持功能
 > 目前均为免费版本，Plus 版本还在规划中，Lite 和 Full 版本永久免费。
 
